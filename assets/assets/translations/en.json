@@ -1,0 +1,23 @@
+{
+  "files" : "Files to index",
+  "addFiles" : "Add New Files",
+  "changeLan" : "Change Language",
+  "indexM" : "Index method: ",
+  "boolean" : "Boolean Model.",
+  "exBoolean" : "Extended Boolean Model.",
+  "vector" : "Vector Model.",
+  "norma" : "Normalization method: ",
+  "reIndex" : "Re-Index",
+  "doQuery" : "Query",
+  "state1" : "Converting doc file to docx ...",
+  "state2" : "File picking canceled by user!",
+  "state3" : "Download all is complete.",
+  "error1" : "Failed to download all files, maybe a slow connection or server is down. Retrying again ...",
+  "error2" : "Failed to download all files, maybe a slow connection or server is down. Please call developer or try again later ...",
+  "error3" : "Files need to be processed first. Please click or wait Re-Index button to finish.",
+  "error4" : "{} , files Bigger than 1 MB cannot be processed right now.",
+  "error5" : "Already exist or invalid: {}.",
+  "error6" : "Failed to convert from doc to docx",
+  "error7" : "{} is corrupted.",
+  "error8" : "{} download failed. Maybe there is no internet connection or you  aren't using VPN."
+}
